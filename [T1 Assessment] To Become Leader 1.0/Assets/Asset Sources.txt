@@ -1,0 +1,18 @@
+Default platform material:
+https://www.freepik.com/free-vector/realistic-liquid-marble-background-with-gold_13118034.htm#query=marble&position=7&from_view=search&track=sph
+
+Falling platform material:
+https://pxhere.com/en/photo/1370489
+https://www.flickr.com/photos/craigsd/4607294855
+
+Instant kill material:
+https://www.freepik.com/free-vector/realistic-liquid-marble-background-with-gold_13163830.htm#query=red%20marble&position=8&from_view=search&track=ais
+
+Fabric material:
+https://www.flickr.com/photos/pug50/6388201017/in/photolist-aJvcAR-csGmB-aKgyci-qB3j8y-bkUM48-8sBeeb-eQ3KZ1-cwWVnA-pMJa-3qpsEP-6weF7n-dMogb6-BKiSJB-bnuo39-9Zj4oC-dMtPLy-i7Nwxq-pQMUhu-65BAzv-9Zj3Bm-CqG2r8-9ZLVgW-7A1Sx6-p4ahTC-7HfjXt-9Zj4wy-aGoxeK-7bK4pC-58WTGL-LCvZSm-bkUyyR-S6Ma9-56fR6y-dMtTmj-cffAWW-zJQwsn-nv42ez-ajNby3-JohDyS-aw5ueK-9bCQbj-9xaUTz-araJrA-dMtQ9w-9Nmv2d-bmSmgz-o4bc92-cib7mG-dkEdah-6Fk4iM
+
+Pillar:
+https://assetstore.unity.com/packages/3d/environments/yughues-free-pillars-columns-13103
+
+Arm:
+"Lowpoly Arm" (https://skfb.ly/6W6wW) by bananalogos21 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
